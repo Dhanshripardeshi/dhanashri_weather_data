@@ -1,5 +1,5 @@
-The Weather Dataset is time-series data set with per-hour information about the Weather Conditions at particular location. 
-It records Temperature ,Dew Point Temperature , Relative Humidity ,Wind Speed ,Visibility ,Pressure ,and Conditions.
+The Weather Dataset is time-series data set with per-hour information about the weather conditions at particular location 
+It records Temperature ,Dew point Temperature , Relative Humidity ,Wind Speed ,Visibility ,Pressure ,and Conditions
 
 The commands that we used in this project :
 head() - It shows the first N rows in the data (by default, N=5).
